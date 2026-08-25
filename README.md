@@ -1,5 +1,10 @@
 #  Lane Detection
 
+##  Developed By
+
+* **Name:** HARSHITH M 
+* **Register No:** 212224040206
+* **Date** : 25/08/2026
 ##  Aim
 
 To implement a basic lane detection pipeline using OpenCV by completing missing code segments at specified locations.
@@ -42,10 +47,7 @@ Using Canny operator from cv2,detect the edges of the image.
 Using the HoughLinesP(),detect line co-ordinates for every points in the images.Using For loop,draw the lines on the found co-ordinates.Display the image.
 
 ## Program 
-##  Developed By
 
-* **Name:** HARSHITH M 
-* **Register No:** 212224040206
 
 ### Input image and grayscale image
 ```
